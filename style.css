@@ -1,0 +1,21 @@
+table {
+	border: solid black 1px;
+}
+
+th {
+	padding-right: 75px;
+}
+
+h2 {
+	border-bottom: solid black 1px;
+	width: 200px;
+}
+
+label {
+	display: block;
+	margin-bottom: 5px;
+}
+
+button {
+	margin-top: 20px;
+}
